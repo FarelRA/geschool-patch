@@ -1,7 +1,7 @@
-# Gsch-Hack
+# geschool-patch
 
 ## Overview
-Gsch-Hack is a decompilation of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The purpose of this project is to remove all security features from the original application.
+geschool-patch is a decompilation of the "Geschool Secure Mode" app ([Google Play Link](https://play.google.com/store/apps/details?id=net.geschool.app.secure&hl=en)). The purpose of this project is to remove all security features from the original application.
 
 ## Technical Details
 - **Languages Used**: 
@@ -24,11 +24,11 @@ Ensure you have the following tools installed:
 #### Using Apktool
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FarelRA/Gsch-Hack.git
+   git clone https://github.com/FarelRA/geschool-patch.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Gsch-Hack
+   cd geschool-patch
    ```
 3. Rebuild the APK using `apktool`:
    ```bash
