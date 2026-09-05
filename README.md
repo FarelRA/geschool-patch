@@ -1,3 +1,5 @@
+> **Status:** Archived — no longer maintained, kept for reference.
+
 # geschool-patch
 
 ## Overview
